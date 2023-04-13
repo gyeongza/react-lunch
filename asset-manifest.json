@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2c4c38c.css",
-    "main.js": "/static/js/main.b814b3e9.js",
-    "index.html": "/index.html",
-    "main.b2c4c38c.css.map": "/static/css/main.b2c4c38c.css.map",
-    "main.b814b3e9.js.map": "/static/js/main.b814b3e9.js.map"
+    "main.css": "/react-lunch/static/css/main.b2c4c38c.css",
+    "main.js": "/react-lunch/static/js/main.b814b3e9.js",
+    "index.html": "/react-lunch/index.html",
+    "main.b2c4c38c.css.map": "/react-lunch/static/css/main.b2c4c38c.css.map",
+    "main.b814b3e9.js.map": "/react-lunch/static/js/main.b814b3e9.js.map"
   },
   "entrypoints": [
     "static/css/main.b2c4c38c.css",
